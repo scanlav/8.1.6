@@ -1,0 +1,8 @@
+/Users/scanlav/IdeaProjects/8.1.6/src/main/java/jm/task/core/jdbc/model/User.java
+/Users/scanlav/IdeaProjects/8.1.6/src/main/java/jm/task/core/jdbc/util/Util.java
+/Users/scanlav/IdeaProjects/8.1.6/src/main/java/jm/task/core/jdbc/service/UserServiceImpl.java
+/Users/scanlav/IdeaProjects/8.1.6/src/main/java/jm/task/core/jdbc/dao/UserDao.java
+/Users/scanlav/IdeaProjects/8.1.6/src/main/java/jm/task/core/jdbc/dao/UserDaoHibernateImpl.java
+/Users/scanlav/IdeaProjects/8.1.6/src/main/java/jm/task/core/jdbc/dao/UserDaoJDBCImpl.java
+/Users/scanlav/IdeaProjects/8.1.6/src/main/java/jm/task/core/jdbc/service/UserService.java
+/Users/scanlav/IdeaProjects/8.1.6/src/main/java/jm/task/core/jdbc/Main.java
